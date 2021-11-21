@@ -49,13 +49,16 @@ export function TasksList({
               >
                 <View
                   testID={`marker-${index}`}
-                  //TODO - use style prop
+                  style={[
+                    styles.taskMarker,
+                    item.done && styles.taskMarkerDone,
+                  ]}
                 >
                   {item.done && <Icon name="check" size={12} color="#FFF" />}
                 </View>
 
                 <Text
-                //TODO - use style prop
+                  style={[styles.taskText, item.done && styles.taskTextDone]}
                 >
                   {item.title}
                 </Text>
