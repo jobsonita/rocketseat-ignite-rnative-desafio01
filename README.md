@@ -26,7 +26,7 @@ Developed through TDD using [Rocketseat's template](https://github.com/rocketsea
 ## :newspaper: App Interface
 ### :iphone: Planned Design
 
-<p align="center"><img alt="Planned design provided by Rocketseat" title="Planned design provided by Rocketseat" src="https://i.imgur.com/yLU8ZgT.gif" width="250px"></p>
+<p align="center"><a href="https://i.imgur.com/yLU8ZgT.mp4">Planned design provided by Rocketseat</a></p>
 
 ### :tada: Final Result
 
